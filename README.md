@@ -1,5 +1,6 @@
 # Crypto-Clipper
 https://www.youtube.com/watch?v=8ReLKm54VBg
+   
    Native - No dependencies.
     Support for all currencies (btc,eth,xmr,eth...).
     Mutex - to prevent multiple instances of itself from running on the same system.
